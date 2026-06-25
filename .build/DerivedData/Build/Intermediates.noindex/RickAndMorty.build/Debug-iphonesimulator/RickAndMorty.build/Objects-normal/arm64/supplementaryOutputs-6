@@ -1,0 +1,51 @@
+{
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty/components/WheelGraphic.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelGraphic.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelGraphic.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelGraphic.dia",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelGraphic.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelGraphic.swiftdeps"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty/components/WheelPointer.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelPointer.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelPointer.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelPointer.dia",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelPointer.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/WheelPointer.swiftdeps"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty/coordinator/AppCoordinator.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppCoordinator.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppCoordinator.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppCoordinator.dia",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppCoordinator.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppCoordinator.swiftdeps"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty/factory/AppFactory.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppFactory.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppFactory.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppFactory.dia",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppFactory.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/AppFactory.swiftdeps"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty/model/BluetoothPeer.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/BluetoothPeer.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/BluetoothPeer.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/BluetoothPeer.dia",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/BluetoothPeer.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/BluetoothPeer.swiftdeps"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty/model/CharactersModel.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/CharactersModel.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/CharactersModel.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/CharactersModel.dia",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/CharactersModel.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/CharactersModel.swiftdeps"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty/model/DailyRewardPrize.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/DailyRewardPrize.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/DailyRewardPrize.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/DailyRewardPrize.dia",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/DailyRewardPrize.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMorty.build/Objects-normal/arm64/DailyRewardPrize.swiftdeps"
+  }
+}

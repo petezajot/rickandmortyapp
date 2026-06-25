@@ -1,0 +1,78 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8094ef28d5d3b7c89268a5de7d853ff9523007f61f2994d729e2b95a6257ad72"
+    },
+    {
+      "guid" : "8094ef28d5d3b7c89268a5de7d853ff912486ff25f03b173378f5373711312ad"
+    },
+    {
+      "guid" : "8094ef28d5d3b7c89268a5de7d853ff943617548a5fb3a3a51b84069fa192756"
+    }
+  ],
+  "containerPath" : "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMorty.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos26.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

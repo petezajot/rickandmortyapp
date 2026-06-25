@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests-primary.dia",
+    "emit-module-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests-primary-emit-module.dia",
+    "pch" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests-primary.swiftdeps"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMortyUITests/RickAndMortyUITests.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests.dia",
+    "index-unit-output-path" : "/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests.o",
+    "llvm-bc" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests.bc",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests.swiftdeps",
+    "swiftmodule" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITests~partial.swiftmodule"
+  },
+  "/Users/sergiogarciavargas/Documents/RickAndMorty/RickAndMortyUITests/RickAndMortyUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests.d",
+    "diagnostics" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests.bc",
+    "object" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/sergiogarciavargas/Documents/RickAndMorty/.build/DerivedData/Build/Intermediates.noindex/RickAndMorty.build/Debug-iphonesimulator/RickAndMortyUITests.build/Objects-normal/x86_64/RickAndMortyUITestsLaunchTests~partial.swiftmodule"
+  }
+}
